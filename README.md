@@ -39,7 +39,12 @@ The platform allows users to browse, search, and manage books with a complete ad
 
 ## 📸 Screenshots
 
-> يمكنك إضافة صور من الموقع هنا (Home, Admin Panel, Cart...)
+### 🏠 Home Page
+![Home](screenshots/home.png)
+### 👤 Profile Page
+![Home](screenshots/profile.png)
+### 🛠️ Admin Panel
+![Home](screenshots/admin-panel.png)
 
 ---
 
