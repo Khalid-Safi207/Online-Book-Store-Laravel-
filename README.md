@@ -40,11 +40,11 @@ The platform allows users to browse, search, and manage books with a complete ad
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+![Home](screenshots/home.PNG)
 ### 👤 Profile Page
-![Home](screenshots/profile.png)
+![Home](screenshots/profile.PNG)
 ### 🛠️ Admin Panel
-![Home](screenshots/admin-panel.png)
+![Home](screenshots/adminpanel.PNG)
 
 ---
 
